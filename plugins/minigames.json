@@ -67,16 +67,22 @@
       }
     },
     "simon_says": {
-      "description": "You better do what Simon says",
+      "description": "You better do what Simon says. Playable in co-op",
       "external_url": "",
       "authors": [
         {
-          "name": "Unknown",
+          "name": "-",
           "email": "",
           "discord": ""
         }
       ],
       "versions": {
+        "1.0.2": {
+          "api_version": 8,
+          "commit_sha": "593ae6f",
+          "released_on": "16-02-2024",
+          "md5sum": "57cd7a06f1f3169752cf77537affcf5b"
+        },
         "1.0.1": {
           "api_version": 8,
           "commit_sha": "2b5c9ee",
@@ -196,7 +202,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "Unknown",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -558,6 +564,44 @@
         }
       }
     },
+    "canon_fight": {
+      "description": "Blow up your enemy with powerfull cannon",
+      "external_url": "https://www.youtube.com/watch?v=7cv3ZSZeTns",
+      "authors": [
+        {
+          "name": "Mr.Smoothy",
+          "email": "",
+          "discord": "mr.smoothy"
+        }
+      ],
+      "versions": {
+        "1.0.0": {
+          "api_version": 8,
+          "commit_sha": "505c948",
+          "released_on": "09-06-2024",
+          "md5sum": "44adbe3bd6ec4988d65ff4ee79b48d95"
+        }
+      }
+    },
+    "laser_tracer": {
+      "description": "Dont touch dangerous laser light",
+      "external_url": "https://youtu.be/wTgwZKiykQw?si=Cr0ybDYAcKCUNFN4",
+      "authors": [
+        {
+          "name": "Mr.Smoothy",
+          "email": "",
+          "discord": "mr.smoothy"
+        }
+      ],
+      "versions": {
+        "1.0.0": {
+          "api_version": 8,
+          "commit_sha": "505c948",
+          "released_on": "09-06-2024",
+          "md5sum": "08a6457ebd271a7f7860a506b731d272"
+        }
+      }
+    },
     "arms_race": {
       "description": "Upgrade your weapons by eliminating enemies. Win by being first one to kill while cursed",
       "external_url": "",
@@ -710,6 +754,12 @@
         }
       ],
       "versions": {
+        "1.0.2": {
+          "api_version": 8,
+          "commit_sha": "da878bf",
+          "released_on": "25-04-2024",
+          "md5sum": "bac58caf1703d8f2f8ac86821c489eef"
+        },
         "1.0.1": {
           "api_version": 8,
           "commit_sha": "2b5c9ee",
@@ -779,7 +829,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "Unknown",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -867,7 +917,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "Unknown",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -886,7 +936,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -973,7 +1023,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -1083,7 +1133,7 @@
       }
     },
     "you_vs_bombsquad": {
-      "description": "You against bombsquad solo or with friends",
+      "description": "You against bombsquad solo or with friends. Playable in co-op",
       "external_url": "",
       "authors": [
         {
@@ -1093,6 +1143,12 @@
         }
       ],
       "versions": {
+        "1.0.1": {
+          "api_version": 8,
+          "commit_sha": "9ca6039",
+          "released_on": "15-02-2024",
+          "md5sum": "cb4698e70fd94402eca199250564ffba"
+        },
         "1.0.0": {
           "api_version": 8,
           "commit_sha": "718039b",
@@ -1106,7 +1162,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "IDK",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -1121,7 +1177,7 @@
       }
     },
     "lame_fight": {
-      "description": "Save World With Super Powers",
+      "description": "Save World With Super Powers. Playable in co-op",
       "external_url": "",
       "authors": [
         {
@@ -1131,6 +1187,12 @@
         }
       ],
       "versions": {
+        "1.0.1": {
+          "api_version": 8,
+          "commit_sha": "9ca6039",
+          "released_on": "15-02-2024",
+          "md5sum": "9072f98eef0739474b2839a0866be969"
+        },
         "1.0.0": {
           "api_version": 8,
           "commit_sha": "4941d0c",
@@ -1144,7 +1206,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "IDK",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -1163,7 +1225,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "IDK",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -1178,7 +1240,7 @@
       }
     },
     "bot_chase": {
-      "description": "Try to survive from bots!",
+      "description": "Try to survive from bots! Playable in co-op",
       "external_url": "",
       "authors": [
         {
@@ -1188,6 +1250,12 @@
         }
       ],
       "versions": {
+        "1.0.1": {
+          "api_version": 8,
+          "commit_sha": "9ca6039",
+          "released_on": "15-02-2024",
+          "md5sum": "209ddaa4c4e128650730771db4d0588c"
+        },
         "1.0.0": {
           "api_version": 8,
           "commit_sha": "5063690",
@@ -1201,7 +1269,7 @@
       "external_url": "",
       "authors": [
         {
-          "name": "IDK",
+          "name": "-",
           "email": "",
           "discord": ""
         }
@@ -1273,7 +1341,7 @@
       }
     },
     "explodo_run": {
-      "description": "Cursed meteor shower of crazy Captain Jack trying take your soul",
+      "description": "Cursed meteor shower of crazy Captain Jack trying take your soul. Playable in co-op",
       "external_url": "",
       "authors": [
         {
@@ -1283,6 +1351,12 @@
         }
       ],
       "versions": {
+        "1.0.1": {
+          "api_version": 8,
+          "commit_sha": "9ca6039",
+          "released_on": "15-02-2024",
+          "md5sum": "4d711d5eb874cd63a81e9499abb74dd1"
+        },
         "1.0.0": {
           "api_version": 8,
           "commit_sha": "ec6286e",
@@ -1292,16 +1366,22 @@
       }
     },
     "extinction": {
-      "description": "Survive the Extinction.",
+      "description": "Survive the Extinction. Playable in co-op",
       "external_url": "",
       "authors": [
         {
-          "name": "IDK",
+          "name": "-",
           "email": "",
           "discord": ""
         }
       ],
       "versions": {
+        "1.0.1": {
+          "api_version": 8,
+          "commit_sha": "9ca6039",
+          "released_on": "15-02-2024",
+          "md5sum": "1e74b3d2e38ac310a1b3fc28e13833dd"
+        },
         "1.0.0": {
           "api_version": 8,
           "commit_sha": "5063690",
